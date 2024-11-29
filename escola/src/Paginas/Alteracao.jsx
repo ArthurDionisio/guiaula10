@@ -1,8 +1,7 @@
-export default function Alteracao()
-{
+export default function Alteracao(){
     return(
         <div>
-            <h1>Alteração de Alunos</h1>
+            <h1>Alteração de alunos</h1>
         </div>
     );
 }
