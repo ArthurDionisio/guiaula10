@@ -11,7 +11,7 @@ export default function Rotas()
 {
     return(
        <BrowserRouter>
-
+    <Menu />
        <Routes>
 
 <Route path="/" element={<Home />} />
