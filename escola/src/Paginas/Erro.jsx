@@ -1,10 +1,11 @@
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom";
 
-export default function Erro(){
-    return(
+export default function Erro()
+{
+    return (
         <div className="conteudo">
-            <h1>Página não encontrada</h1>
-
+            <h1>Página não Encontrada</h1>
+            
             <p>Parece que a página que você está procurando não está disponível. Isso pode ter acontecido por um link quebrado, um erro de digitação ou a página pode ter sido removida.</p>
             
             <h2>O que fazer agora?</h2>
